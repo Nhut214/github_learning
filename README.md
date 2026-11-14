@@ -13,3 +13,5 @@
 ## Mục tiêu
 
 Sử dụng Git và GitHub thành thạo trong lập trình.
+
+- Chung Hoang Nhut
